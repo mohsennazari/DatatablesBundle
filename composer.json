@@ -1,9 +1,9 @@
 {
-    "name": "sg/datatablesbundle",
+    "name": "monaz/datatablesbundle",
     "type": "symfony-bundle",
-    "description": "Symfony Datatable Bundle For Doctrine2 Entities",
+    "description": "FORK: Symfony Datatable Bundle For Doctrine2 Entities",
     "keywords": ["symfony", "datatable", "datatables", "data-table", "grid", "table", "datagrid", "pagination"],
-    "homepage": "https://github.com/stwe/DatatablesBundle",
+    "homepage": "https://github.com/mohsennazari/DatatablesBundle",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +12,10 @@
         {
             "name": "SgDatatablesBundle contributors",
             "homepage": "https://github.com/stwe/DatatablesBundle/graphs/contributors"
+        },
+        {
+            "name": "Mohsen Nazari",
+            "homepage": "https://github.com/mohsennazari"
         }
     ],
     "support": {
